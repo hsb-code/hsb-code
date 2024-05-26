@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me? Email me at haseebamjad497@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coding or Singing? Ah seems same to me. Rythm, FLow and yes good "Notes"
+- ⚡ Fun fact: Coding or Singing? Ah seems same to me. Rythm, Flow and yes good "Notes"
 
 <!---
 hsb-code/hsb-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
